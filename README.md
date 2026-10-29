@@ -6,6 +6,12 @@ A Power BI portfolio project exploring inventory levels, replenishment signals, 
 
 The goal is to turn row-level supply-chain observations into an interactive dashboard for exploring inventory and demand patterns, comparing recorded lead times, and identifying records that meet a reorder-point rule.
 
+### Power BI Dashboard
+
+[Download the Power BI Dashboard (.pbix)](powerbi/Inventory_Intelligence_Dashboard.pbix)
+
+To view the report, download the file and open it using Power BI Desktop.
+
 **Data note:** The source dataset is synthetic. Results are exploratory and should not be interpreted as audited business performance or proof of causal impact.
 
 ## Business Questions
