@@ -96,3 +96,25 @@ Before publishing, include screenshots of each report page and the `.pbix` file 
 ## Author
 
 Add your name and portfolio links here.
+
+## SQL Analysis
+
+The repository includes `inventory_analysis.sql`, a reconstructed example SQL script demonstrating inventory analysis queries, including record counts, warehouse inventory averages, reorder-point checks, and demand comparisons.
+
+**Note:** This script was reconstructed for portfolio documentation and is not the original SQL script used to create the processed dataset. The queries may require column-name adjustments to match the source database schema.
+
+## Repository Files
+
+- `powerbi/` — Power BI dashboard file.
+- `screenshots/` — Dashboard screenshots.
+- `inventory_analysis.csv` — Processed analysis dataset.
+- `inventory_analysis.sql` — Reconstructed example SQL queries.
+- `README.md` — Project documentation.
+- `LICENSE` — MIT License.
+
+## Limitations
+
+- The dataset is synthetic and does not represent verified real-world business performance.
+- Financial metrics are estimates.
+- The SQL script is illustrative and has not been validated against the original database schema.
+- Stockout and delivery-performance conclusions should not be drawn without suitable supporting data.
