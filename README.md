@@ -12,6 +12,22 @@ The goal is to turn row-level supply-chain observations into an interactive dash
 
 To view the report, download the file and open it using Power BI Desktop.
 
+
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](screenshots/executive_overview.PNG)
+
+### 2. Inventory & Replenishment
+![Inventory and Replenishment](screenshots/inventory_replenishment.PNG)
+
+### 3. Demand & Forecast Analysis
+![Demand and Forecast Analysis](screenshots/demand_forecast_analysis.PNG)
+
+### 4. SKU & Operational Insights
+![SKU and Operational Insights](screenshots/sku_operational_insights.PNG)
+
+
 **Data note:** The source dataset is synthetic. Results are exploratory and should not be interpreted as audited business performance or proof of causal impact.
 
 ## Business Questions
